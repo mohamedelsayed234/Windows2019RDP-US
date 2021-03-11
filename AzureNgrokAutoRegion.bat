@@ -1,4 +1,4 @@
-echo Author: https://youtube.com/c/tinhocthuchanh
+echo Author: https://youtube.com/c/UCXvwV7z30LM1tKnwBpf8haQ
 @echo off
 title Azure-Auto-Region
 
